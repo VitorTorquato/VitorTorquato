@@ -1,7 +1,7 @@
 ### Hello , I'm Vitor Torquato ✌️
 
 #### About
- I'm a passionate web developer with a deep love for technology and an insatiable appetite for learning. Currently on a journey of self-improvement, I find joy in exploring web development. At the moment I'. studying to improve my skills and staying updated with the latest trends in the tech world.
+ I'm a passionate web developer with a deep love for technology and an insatiable appetite for learning. Currently on a journey of self-improvement, I find joy in exploring web development. At the moment I'm studying to improve my skills and staying updated with the latest trends in the tech world.
 
 
 
